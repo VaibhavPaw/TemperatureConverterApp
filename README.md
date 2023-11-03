@@ -17,9 +17,13 @@ I develop a Temperature Converter app using java.
   The converted temperature will be displayed instantly.
 
   # Input :  
-  ![image](https://github.com/VaibhavPaw/TemperatureConverterApp/assets/141149071/c0173051-cfba-4f95-b7e0-c31c03239566)
+  
+  ![image](https://github.com/VaibhavPaw/TemperatureConverterApp/assets/141149071/da02bb5f-5dda-4d68-a700-481cc7740f82)
+
 
   # Output :
- ![image](https://github.com/VaibhavPaw/TemperatureConverterApp/assets/141149071/1fc23587-4ae7-4625-a9ad-376ca610aef2)
+  
+  ![image](https://github.com/VaibhavPaw/TemperatureConverterApp/assets/141149071/84cb6a2d-4b11-4b61-89a0-fd6058a588d7)
+
 
 
