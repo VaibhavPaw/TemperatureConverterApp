@@ -1,7 +1,10 @@
 # TemperatureConverterApp
 I develop a Temperature Converter app using java.
 
-Download my zip & Extract zip file open in Android Studio and then run
+# Steps:
+
+
+Open the extracted file in Android Studio and then run it.
 
 # USAGE :
   Launch the app on your Android device or emulator.
